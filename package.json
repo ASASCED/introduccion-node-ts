@@ -1,0 +1,25 @@
+{
+  "name": "introduccion-node-ts",
+  "version": "1.0.0",
+  "description": "Introduccion a node con TS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASASCED/introduccion-node-ts.git"
+  },
+  "keywords": [
+    "nodets",
+    "typescript",
+    "introduccion"
+  ],
+  "author": "Jesus Jimenez Cordero <jesus_heaven117@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASASCED/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/ASASCED/introduccion-node-ts#readme"
+}
